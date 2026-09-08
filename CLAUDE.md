@@ -11,10 +11,12 @@ Asistente financiero IA para pymes colombianas. El flujo es: Landing → Login B
 - Integraciones: Calendly, Google Workspace
 
 ## Prioridades actuales
-1. Resolver bloqueo de descarga PDF (documento personal en Object Storage)
-2. Recargar saldo Tier 1 Anthropic (expiró 12 agosto)
-3. Probar Ramas A (startup) y C (crecimiento rápido) en producción
-4. Crear enlace condicional a PosBank en diagnóstico (cross-selling)
+1. Recargar saldo Tier 1 Anthropic (expiró 12 agosto)
+2. Probar Ramas A (startup) y C (crecimiento rápido) en producción
+3. Crear enlace condicional a PosBank en diagnóstico (cross-selling)
+
+## Resuelto
+- ~~Bloqueo descarga PDF~~ — Resuelto (septiembre 2026)
 
 ## Convenciones
 - Idioma del código y commits: español para documentación, inglés para código
