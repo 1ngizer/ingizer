@@ -41,5 +41,7 @@ Landing → Login Bubble → Chat IA → Análisis financiero → Popup diagnós
 - Eliminar 3 agentes huérfanos en Make.com
 
 ### Bloqueos Activos
-- **Descarga PDF:** Usuario de prueba subió documento personal. Requiere reemplazo manual en OS
 - **Facturación:** Saldo Tier 1 Anthropic expiró 12 agosto, pendiente recarga
+
+### Resueltos Recientemente
+- ~~Descarga PDF: Usuario de prueba subió documento personal~~ — Resuelto
